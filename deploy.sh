@@ -1,2 +1,2 @@
 This file contains deployment scripts.
-Again added some stage logicis.
+Again added some stage logics.
